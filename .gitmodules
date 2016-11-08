@@ -1,3 +1,6 @@
 [submodule "Sublime Text 3/Packages/Active 4D"]
 	path = Sublime Text 3/Packages/Active 4D
 	url = https://github.com/aparajita/active4d-sublime
+[submodule "Sublime Text 3/Packages/Format SQL"]
+	path = Sublime Text 3/Packages/Format SQL
+	url = https://github.com/freewizard/sublimeformatsql
