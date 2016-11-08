@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Alignment",
+		"DocBlockr",
+		"EditorConfig",
+		"Function Name Display",
+		"ivantage-sublime-snippets",
+		"JSCS-Formatter",
+		"JSHint",
+		"LESS",
+		"Lodash modules snippets",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP"
+	],
+	"repositories":
+	[
+		"https://github.com/iVantage/ivantage-sublime-snippets"
+	]
+}
